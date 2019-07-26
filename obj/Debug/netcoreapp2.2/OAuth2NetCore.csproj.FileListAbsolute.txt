@@ -1,0 +1,14 @@
+F:\Projects\Personal\Comartek\EcoID\sources\OAuth2NetCore\OAuth2NetCore\OAuth2NetCore\obj\Debug\netcoreapp2.2\OAuth2NetCore.csproj.CoreCompileInputs.cache
+F:\Projects\Personal\Comartek\EcoID\sources\OAuth2NetCore\OAuth2NetCore\OAuth2NetCore\obj\Debug\netcoreapp2.2\OAuth2NetCore.AssemblyInfoInputs.cache
+F:\Projects\Personal\Comartek\EcoID\sources\OAuth2NetCore\OAuth2NetCore\OAuth2NetCore\obj\Debug\netcoreapp2.2\OAuth2NetCore.AssemblyInfo.cs
+F:\Projects\Personal\Comartek\EcoID\sources\OAuth2NetCore\OAuth2NetCore\OAuth2NetCore\bin\Debug\netcoreapp2.2\OAuth2NetCore.deps.json
+F:\Projects\Personal\Comartek\EcoID\sources\OAuth2NetCore\OAuth2NetCore\OAuth2NetCore\bin\Debug\netcoreapp2.2\OAuth2NetCore.runtimeconfig.json
+F:\Projects\Personal\Comartek\EcoID\sources\OAuth2NetCore\OAuth2NetCore\OAuth2NetCore\bin\Debug\netcoreapp2.2\OAuth2NetCore.runtimeconfig.dev.json
+F:\Projects\Personal\Comartek\EcoID\sources\OAuth2NetCore\OAuth2NetCore\OAuth2NetCore\bin\Debug\netcoreapp2.2\OAuth2NetCore.dll
+F:\Projects\Personal\Comartek\EcoID\sources\OAuth2NetCore\OAuth2NetCore\OAuth2NetCore\bin\Debug\netcoreapp2.2\OAuth2NetCore.pdb
+F:\Projects\Personal\Comartek\EcoID\sources\OAuth2NetCore\OAuth2NetCore\OAuth2NetCore\obj\Debug\netcoreapp2.2\OAuth2NetCore.csprojAssemblyReference.cache
+F:\Projects\Personal\Comartek\EcoID\sources\OAuth2NetCore\OAuth2NetCore\OAuth2NetCore\obj\Debug\netcoreapp2.2\OAuth2NetCore.RazorAssemblyInfo.cache
+F:\Projects\Personal\Comartek\EcoID\sources\OAuth2NetCore\OAuth2NetCore\OAuth2NetCore\obj\Debug\netcoreapp2.2\OAuth2NetCore.RazorAssemblyInfo.cs
+F:\Projects\Personal\Comartek\EcoID\sources\OAuth2NetCore\OAuth2NetCore\OAuth2NetCore\obj\Debug\netcoreapp2.2\OAuth2NetCore.RazorTargetAssemblyInfo.cache
+F:\Projects\Personal\Comartek\EcoID\sources\OAuth2NetCore\OAuth2NetCore\OAuth2NetCore\obj\Debug\netcoreapp2.2\OAuth2NetCore.dll
+F:\Projects\Personal\Comartek\EcoID\sources\OAuth2NetCore\OAuth2NetCore\OAuth2NetCore\obj\Debug\netcoreapp2.2\OAuth2NetCore.pdb
